@@ -1,5 +1,9 @@
 # Space Defense Game with Hand Tracking 🚀
 
+## ⚠️ Important
+**Recommended Python Version:** Python 3.10.x
+This project is optimized for Python 3.10 due to MediaPipe compatibility.
+
 A Python-based arcade game controlled entirely by hand gestures using MediaPipe and OpenCV.
 
 ## Controls
