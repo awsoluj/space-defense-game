@@ -28,9 +28,12 @@ If you prefer running it manually via terminal:
    ```bash
    python -m venv venv
 2. Activate the environment:
+   ```bash
    Windows: venv\Scripts\activate
    Mac/Linux: source venv/bin/activate
 3. Install dependencies:
+   ```bash
    pip install -r requirements.txt
 4. Run the game:
+   ```bash
    python spaceDefanse.py
