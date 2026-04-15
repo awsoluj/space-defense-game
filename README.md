@@ -1,4 +1,4 @@
-# Space Defense Game with Hand Tracking 🚀
+# Virtual Pilot with Hand Tracking 🚀
 
 A Python-based arcade game controlled entirely by hand gestures using MediaPipe and OpenCV.
 
